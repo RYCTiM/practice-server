@@ -1,3 +1,7 @@
+# Add. exceptions
+db/
+*.old
+
 # Logs
 logs
 *.log

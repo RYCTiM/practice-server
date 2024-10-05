@@ -4,7 +4,7 @@
   "description": "none",
   "main": "index.js",
   "scripts": {
-    "test": "echo Run server correctly && node back.js && exit 0"
+    "test": "echo Run server correctly && node back.http.js && exit 0"
   },
   "author": "ryctim",
   "license": "MIT",
